@@ -3,6 +3,7 @@ title: Hexo+github配置博客
 date: 2017-12-20 14:07:33
 tags: tools
 category: tec
+toc: true
 ---
 
 ### 安装git
