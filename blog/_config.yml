@@ -116,3 +116,13 @@ deploy:
   type: git
   repo: https://github.com/wbersaty/wbersaty.github.io.git
   branch: master
+
+# Gitment
+# Introduction: https://imsun.net/posts/gitment-introduction/
+gitment:
+  enable: true
+  githubID: 26ae80fa927b9e72774e
+  repo: https://github.com/wbersaty/wbersaty.github.io.git
+  ClientID: 26ae80fa927b9e72774e
+  ClientSecret: dc3116caf8e351394ed5df14b22ce502c7198a17
+  lazy: true
